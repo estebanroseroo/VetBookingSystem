@@ -2,15 +2,16 @@ This Vet Booking System simulates the functionality of a booking System, allowin
 The application supports operations such as viewing appointments and scheduling appointments. 
 It is built using C# for the backend and WPF for the user interface.
 
-Features
-Appointment display
-Schedule Appointment functionality
+Features:
+1. Appointment display
+2. Schedule Appointment functionality
+3. Reading and Writing JSON file
 
-Installation
-Clone the repository.
+Installation:
+1. Clone the repository.
 
-Technologies Used
-C#
-WPF (Windows Presentation Foundation)
-Git for version control
-.NET Framework
+Technologies Used:
+1. C#
+2. WPF (Windows Presentation Foundation)
+3. Git for version control
+4. .NET Framework
