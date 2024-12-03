@@ -1,0 +1,121 @@
+{
+  "Vets": [
+    {
+      "Id": 1,
+      "Name": "Dr. Esteban Rosero",
+      "ShiftStart": "08:00",
+      "ShiftEnd": "14:00",
+      "WorkedHours": 6
+    },
+    {
+      "Id": 2,
+      "Name": "Dra. Surushti Mahida",
+      "ShiftStart": "15:00",
+      "ShiftEnd": "21:00",
+      "WorkedHours": 6
+    }
+  ],
+  "Technicians": [
+    {
+      "Id": 1,
+      "Name": "Joey",
+      "ShiftStart": "00:00",
+      "ShiftEnd": "08:00"
+    },
+    {
+      "Id": 2,
+      "Name": "Phoebe",
+      "ShiftStart": "00:00",
+      "ShiftEnd": "08:00"
+    },
+    {
+      "Id": 3,
+      "Name": "Ross",
+      "ShiftStart": "08:00",
+      "ShiftEnd": "16:00"
+    },
+    {
+      "Id": 4,
+      "Name": "Rachel",
+      "ShiftStart": "08:00",
+      "ShiftEnd": "16:00"
+    },
+    {
+      "Id": 5,
+      "Name": "Chandler",
+      "ShiftStart": "16:00",
+      "ShiftEnd": "23:59"
+    },
+    {
+      "Id": 6,
+      "Name": "Monica",
+      "ShiftStart": "16:00",
+      "ShiftEnd": "23:59"
+    }
+  ],
+  "Appointments": [
+    {
+      "Pet": "Toby",
+      "Owner": "Gaby",
+      "TimeSlot": "08:00",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
+    },
+    {
+      "Pet": "Copo",
+      "Owner": "Ricky",
+      "TimeSlot": "19:40",
+      "Duration": 20,
+      "VetName": "Dra. Surushti Mahida"
+    },
+    {
+      "Pet": "Walle",
+      "Owner": "Andy",
+      "TimeSlot": "14:00",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
+    },
+    {
+      "Pet": "Eva",
+      "Owner": "Omar",
+      "TimeSlot": "12:00",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
+    },
+    {
+      "Pet": "Yoshi",
+      "Owner": "Mario",
+      "TimeSlot": "09:00",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
+    },
+    {
+      "Pet": "Mickey",
+      "Owner": "Walt",
+      "TimeSlot": "13:20",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
+    },
+    {
+      "Pet": "Appa",
+      "Owner": "Aang",
+      "TimeSlot": "08:40",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
+    },
+    {
+      "Pet": "Agumon",
+      "Owner": "Tai",
+      "TimeSlot": "20:20",
+      "Duration": 20,
+      "VetName": "Dra. Surushti Mahida"
+    },
+    {
+      "Pet": "Blue Eyes Dragon",
+      "Owner": "Seto Kaiba",
+      "TimeSlot": "18:20",
+      "Duration": 20,
+      "VetName": "Dra. Surushti Mahida"
+    }
+  ]
+}
