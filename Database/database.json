@@ -123,6 +123,13 @@
       "TimeSlot": "17:00",
       "Duration": 20,
       "VetName": "Dra. Surushti Mahida"
+    },
+    {
+      "Pet": "Jerry",
+      "Owner": "Tom",
+      "TimeSlot": "11:00",
+      "Duration": 20,
+      "VetName": "Dr. Esteban Rosero"
     }
   ]
 }
