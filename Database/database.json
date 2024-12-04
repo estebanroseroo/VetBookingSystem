@@ -116,6 +116,13 @@
       "TimeSlot": "18:20",
       "Duration": 20,
       "VetName": "Dra. Surushti Mahida"
+    },
+    {
+      "Pet": "Yoda",
+      "Owner": "Obiwan Kenobi",
+      "TimeSlot": "17:00",
+      "Duration": 20,
+      "VetName": "Dra. Surushti Mahida"
     }
   ]
 }

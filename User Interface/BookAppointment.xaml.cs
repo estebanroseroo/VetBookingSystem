@@ -41,7 +41,6 @@ namespace VetBookingSystem.User_Interface
                 {
                     TimeComboBox.Items.Add(slot);
                 }
-                //TimeComboBox.Items.Add(time.ToString(@"hh\:mm"));
             }
             if (TimeComboBox.Items.Count > 0)
             {
@@ -53,8 +52,6 @@ namespace VetBookingSystem.User_Interface
         {
             DateTime requestedTime;
             string selectedTime = TimeComboBox.SelectedItem.ToString();
-            //DateTime appointmentTime = DateTime.ParseExact(selectedTime, "HH:mm", null);
-            //if (DateTime.TryParse(RequestedTimeTextBox.Text, out requestedTime))
             if (DateTime.TryParse(selectedTime, out requestedTime))
             {
                 string pet = PetTextBox.Text;

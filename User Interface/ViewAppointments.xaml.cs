@@ -32,7 +32,6 @@ namespace VetBookingSystem.User_Interface
                 .OrderBy(a => TimeSpan.Parse(a.TimeSlot))
                 .ToList();
             AppointmentsListView.ItemsSource = sortedAppointments;
-            // AppointmentsListView.ItemsSource = schedule.Appointments;
         }
 
         private void CancelButton_Click(object sender, RoutedEventArgs e)

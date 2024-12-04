@@ -14,7 +14,7 @@ namespace VetBookingSystem
         private Schedule schedule;
         private string filePath;
 
-        public BookingSystem()//Schedule schedule)
+        public BookingSystem()
         {
             filePath = "\\Users\\Esteban\\Desktop\\Conestoga\\HQ\\second semester\\VetBookingSystem\\Database\\database.json";
             schedule = DatabaseLoader.LoadData(filePath);

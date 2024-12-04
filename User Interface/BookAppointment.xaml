@@ -13,7 +13,6 @@
         <TextBox x:Name="PetTextBox" Width="200" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="300,100,0,0" />
         <TextBlock Text="Time (HH:MM):" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,140,0,0" />
         <ComboBox x:Name="TimeComboBox" Width="200" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="300,140,0,0" />
-        <!--<TextBox x:Name="RequestedTimeTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="30" Margin="300,140,0,0" />-->
         <Button x:Name="BookAppointmentButton" Content="Book Appointment" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="30" Margin="300,200,0,0" Click="BookAppointmentButton_Click" />
         <Button x:Name="CancelButton" Content="Cancel" Width="200" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="300,250,0,0" Click="CancelButton_Click" />
     </Grid>
