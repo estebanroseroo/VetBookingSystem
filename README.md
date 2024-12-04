@@ -9,6 +9,7 @@ Features:
 
 Installation:
 1. Clone the repository.
+2. Watch the tutorial video.
 
 Technologies Used:
 1. C#
